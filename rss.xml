@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[dreamoperators]]></title>
         <description><![CDATA[dreamoperators]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dreamoperators/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 09:09:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 13:32:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreamoperators/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://cdn2.vox-cdn.com/thumbor/xwZ6CKQlDy05qS0EjC9LNYd4uYk=/2800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/6246591/vrg_oculus_image_lede_01_front.0.png">]]></description>
+            <link>https://thegrid.ai/dreamoperators/054dd33f-ee56-4860-906a-ede6295c1522/index.html</link>
+            <guid isPermaLink="false">054dd33f-ee56-4860-906a-ede6295c1522</guid>
+            <pubDate>Tue, 29 Mar 2016 13:31:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oculus Rift Review: Rejoice, for the Age of [:] ) Has Begun]]></title>
             <description><![CDATA[<article><h1>Oculus Rift Review: Rejoice, for the Age of [:] ) Has Begun</h1><p>Its hard to imagine a phrase more loaded than "the Oculus Rift is here." While people have been talking and writing about the virtual-reality headset since 2012, it's always qualified with words like "developer kit" or "prototype" or "pre-release version."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7e1986c068606e2ed70539fe9adf58e012e48b.jpg"></article>]]></description>
