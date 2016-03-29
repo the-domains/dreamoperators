@@ -1,0 +1,28 @@
+name: dreamoperators
+favicon: null
+layout_spectrum: 0.25417008087970316
+typography_spectrum: 0.6959798238240182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3842862076126039
+  lightness: 0.7119870546739548
+  saturation: 0.016735760029405355
+  rhythmicContrast: 0.7229807709809393
+purpose: []
